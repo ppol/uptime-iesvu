@@ -4,19 +4,19 @@
     "url": "https://cevi.iesvu.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/cevi.iesvu.edu.ar.ico",
     "slug": "ce-vi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1180,
-    "timeDay": 1239,
-    "timeWeek": 1218,
-    "timeMonth": 1161,
-    "timeYear": 1180,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1182,
+    "timeDay": 1293,
+    "timeWeek": 1232,
+    "timeMonth": 1167,
+    "timeYear": 1182,
     "dailyMinutesDown": {
-      "2023-05-04": 0
+      "2023-05-04": 10
     }
   },
   {
