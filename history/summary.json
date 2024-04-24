@@ -4,7 +4,7 @@
     "url": "https://cevi.iesvu.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/cevi.iesvu.edu.ar.ico",
     "slug": "ce-vi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 4345,
     "timeYear": 2949,
     "dailyMinutesDown": {
+      "2024-04-24": 0,
       "2024-04-15": 43,
       "2024-04-06": 63,
       "2024-04-04": 19,
