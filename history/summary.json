@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cevi.iesvu.edu.ar.ico",
     "slug": "ce-vi",
     "status": "up",
-    "uptime": "92.33%",
+    "uptime": "92.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "88.59%",
-    "time": 3619,
-    "timeDay": 3517,
-    "timeWeek": 3492,
-    "timeMonth": 3923,
+    "time": 3623,
+    "timeDay": 3407,
+    "timeWeek": 3502,
+    "timeMonth": 3910,
     "timeYear": 4107,
     "dailyMinutesDown": {
       "2024-09-12": 23,
@@ -53,8 +53,7 @@
       "2023-11-24": 15,
       "2023-11-14": 29,
       "2023-11-07": 18,
-      "2023-10-21": 88,
-      "2023-10-07": 21
+      "2023-10-21": 88
     }
   },
   {
@@ -66,13 +65,13 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.57%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 614,
     "timeDay": 384,
-    "timeWeek": 461,
-    "timeMonth": 552,
-    "timeYear": 613,
+    "timeWeek": 444,
+    "timeMonth": 553,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2024-09-05": 189,
       "2024-08-23": 23,
