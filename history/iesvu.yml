@@ -1,7 +1,7 @@
 url: https://iesvu.edu.ar
-status: up
-code: 200
-responseTime: 817
-lastUpdated: 2025-12-23T05:33:21.533Z
+status: down
+code: 415
+responseTime: 219
+lastUpdated: 2025-12-23T14:41:02.585Z
 startTime: 2023-03-01T14:16:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
