@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cevi.iesvu.edu.ar.ico",
     "slug": "ce-vi",
     "status": "up",
-    "uptime": "97.85%",
+    "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.11%",
     "uptimeMonth": "97.46%",
@@ -41,16 +41,16 @@
     "url": "https://iesvu.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/iesvu.edu.ar.ico",
     "slug": "iesvu",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "94.22%",
-    "uptimeWeek": "83.50%",
-    "uptimeMonth": "87.08%",
-    "uptimeYear": "98.17%",
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "62.64%",
+    "uptimeWeek": "82.32%",
+    "uptimeMonth": "86.03%",
+    "uptimeYear": "98.08%",
     "time": 524,
-    "timeDay": 262,
-    "timeWeek": 394,
-    "timeMonth": 431,
+    "timeDay": 400,
+    "timeWeek": 414,
+    "timeMonth": 434,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2026-03-01": 57,
@@ -121,7 +121,7 @@
       "2026-06-14": 625,
       "2026-06-15": 5,
       "2026-06-17": 83,
-      "2026-06-18": 0
+      "2026-06-18": 461
     }
   }
 ]
