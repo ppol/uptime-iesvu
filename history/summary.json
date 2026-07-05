@@ -14,7 +14,7 @@
     "timeDay": 2094,
     "timeWeek": 2378,
     "timeMonth": 2429,
-    "timeYear": 2586,
+    "timeYear": 2587,
     "dailyMinutesDown": {
       "2025-07-07": 18,
       "2025-07-23": 79,
@@ -41,16 +41,16 @@
     "url": "https://iesvu.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/iesvu.edu.ar.ico",
     "slug": "iesvu",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "75.32%",
-    "uptimeWeek": "69.48%",
-    "uptimeMonth": "77.79%",
-    "uptimeYear": "97.30%",
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "67.80%",
+    "uptimeWeek": "68.83%",
+    "uptimeMonth": "77.63%",
+    "uptimeYear": "97.27%",
     "time": 517,
-    "timeDay": 493,
-    "timeWeek": 462,
-    "timeMonth": 451,
+    "timeDay": 460,
+    "timeWeek": 459,
+    "timeMonth": 448,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2026-04-12": 173,
@@ -110,7 +110,7 @@
       "2026-07-02": 100,
       "2026-07-03": 126,
       "2026-07-04": 496,
-      "2026-07-05": 328
+      "2026-07-05": 463
     }
   }
 ]
