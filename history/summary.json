@@ -4,17 +4,17 @@
     "url": "https://cevi.iesvu.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/cevi.iesvu.edu.ar.ico",
     "slug": "ce-vi",
-    "status": "down",
-    "uptime": "97.86%",
-    "uptimeDay": "91.46%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "99.41%",
-    "time": 2719,
-    "timeDay": 2267,
-    "timeWeek": 2435,
-    "timeMonth": 2398,
-    "timeYear": 2587,
+    "status": "up",
+    "uptime": "97.85%",
+    "uptimeDay": "83.91%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "97.58%",
+    "uptimeYear": "99.39%",
+    "time": 2717,
+    "timeDay": 2258,
+    "timeWeek": 2414,
+    "timeMonth": 2393,
+    "timeYear": 2586,
     "dailyMinutesDown": {
       "2025-07-23": 79,
       "2025-08-01": 17,
@@ -33,7 +33,7 @@
       "2026-06-16": 292,
       "2026-06-27": 77,
       "2026-06-30": 265,
-      "2026-07-07": 123
+      "2026-07-07": 232
     }
   },
   {
@@ -41,19 +41,18 @@
     "url": "https://iesvu.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/iesvu.edu.ar.ico",
     "slug": "iesvu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "77.06%",
-    "uptimeWeek": "71.80%",
+    "uptimeDay": "84.62%",
+    "uptimeWeek": "72.88%",
     "uptimeMonth": "76.95%",
-    "uptimeYear": "97.21%",
-    "time": 514,
-    "timeDay": 410,
-    "timeWeek": 434,
+    "uptimeYear": "97.22%",
+    "time": 515,
+    "timeDay": 431,
+    "timeWeek": 437,
     "timeMonth": 440,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2026-04-12": 33,
       "2026-04-13": 189,
       "2026-04-14": 159,
       "2026-04-15": 304,
@@ -111,7 +110,8 @@
       "2026-07-03": 126,
       "2026-07-04": 496,
       "2026-07-05": 463,
-      "2026-07-06": 449
+      "2026-07-06": 449,
+      "2026-07-07": 0
     }
   }
 ]
