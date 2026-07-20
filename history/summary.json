@@ -43,10 +43,10 @@
     "slug": "iesvu",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "82.05%",
-    "uptimeWeek": "85.72%",
-    "uptimeMonth": "78.94%",
-    "uptimeYear": "97.06%",
+    "uptimeDay": "74.82%",
+    "uptimeWeek": "84.69%",
+    "uptimeMonth": "78.70%",
+    "uptimeYear": "97.04%",
     "time": 512,
     "timeDay": 443,
     "timeWeek": 393,
@@ -107,7 +107,7 @@
       "2026-07-18": 511,
       "2026-07-17": 10,
       "2026-07-19": 191,
-      "2026-07-20": 68
+      "2026-07-20": 172
     }
   }
 ]
