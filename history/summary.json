@@ -11,7 +11,7 @@
     "uptimeMonth": "97.77%",
     "uptimeYear": "99.32%",
     "time": 2681,
-    "timeDay": 2216,
+    "timeDay": 2220,
     "timeWeek": 2373,
     "timeMonth": 2375,
     "timeYear": 2589,
@@ -43,16 +43,17 @@
     "slug": "iesvu",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "95.51%",
-    "uptimeWeek": "86.11%",
-    "uptimeMonth": "78.95%",
-    "uptimeYear": "96.99%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "86.33%",
+    "uptimeMonth": "78.97%",
+    "uptimeYear": "96.98%",
     "time": 511,
-    "timeDay": 480,
-    "timeWeek": 438,
-    "timeMonth": 435,
+    "timeDay": 507,
+    "timeWeek": 428,
+    "timeMonth": 436,
     "timeYear": 503,
     "dailyMinutesDown": {
+      "2026-05-17": 56,
       "2026-05-22": 59,
       "2026-05-24": 61,
       "2026-05-25": 60,
@@ -106,7 +107,7 @@
       "2026-07-17": 10,
       "2026-07-19": 191,
       "2026-07-20": 469,
-      "2026-07-21": 65
+      "2026-07-21": 55
     }
   }
 ]
