@@ -40,16 +40,16 @@
     "url": "https://iesvu.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/iesvu.edu.ar.ico",
     "slug": "iesvu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "92.60%",
-    "uptimeYear": "97.14%",
-    "time": 509,
-    "timeDay": 448,
-    "timeWeek": 570,
-    "timeMonth": 449,
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "92.48%",
+    "uptimeYear": "97.13%",
+    "time": 510,
+    "timeDay": 521,
+    "timeWeek": 572,
+    "timeMonth": 451,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2026-06-05": 67,
@@ -109,7 +109,7 @@
       "2026-08-07": 52,
       "2026-08-08": 38,
       "2026-08-11": 109,
-      "2026-08-12": 0
+      "2026-08-12": 55
     }
   }
 ]
